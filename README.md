@@ -1,3 +1,12 @@
+# Alfred Quick Translate EX
+----
+
+Original: [https://github.com/nkmr-jp/alfred-quick-translate](https://github.com/nkmr-jp/alfred-quick-translate)
+
+See also: [Alfred 3 のGoogle翻訳ワークフローを作りました。 \- Qiita](https://qiita.com/nkmr_jp/items/ee47d0ef7f39816062a8)
+
+----
+
 # Alfred Quick Translate
 - [Alfred 3](https://www.alfredapp.com/) 対応のGoogle翻訳ワークフローです。(※有料のPowerpack が必要です。)
 - [translate-shell](https://github.com/soimort/translate-shell) を使っています。
