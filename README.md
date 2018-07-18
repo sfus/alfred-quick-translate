@@ -1,9 +1,13 @@
 # Alfred Quick Translate EX
 ----
 
+Download: [quick-translate-ex.alfredworkflow](https://github.com/sfus/alfred-quick-translate/releases/download/v1.1/quick-translate-ex.alfredworkflow)
+
 Original: [https://github.com/nkmr-jp/alfred-quick-translate](https://github.com/nkmr-jp/alfred-quick-translate)
 
 See also: [Alfred 3 のGoogle翻訳ワークフローを作りました。 \- Qiita](https://qiita.com/nkmr_jp/items/ee47d0ef7f39816062a8)
+
+Hotkey: Cmd+Ctrl+1, ..., Cmd+Ctrl+4
 
 ----
 
